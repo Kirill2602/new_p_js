@@ -1,0 +1,32 @@
+.galery {
+  color: red;
+  text-align: center;
+}
+
+.img {
+  width: 246px;
+  height: 250px;
+}
+
+.itemsCard {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.card {
+  text-align: center;
+  border: 2px solid #aeaeae;
+  margin: 10px;
+  padding: 5px;
+}
+
+.title {
+  color: red;
+  font-size: 20px;
+}
+/*# sourceMappingURL=style.css.map */
